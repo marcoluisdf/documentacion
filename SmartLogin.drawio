@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T22:58:27.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ClpGcsYgyGycnFRKk5E5" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-18T23:19:30.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ySnZ5Z_Wo5z--eWQxwTD" version="22.0.4" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SmartLogin Tenderos">
     <mxGraphModel dx="1379" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,82 +86,56 @@
     </mxGraphModel>
   </diagram>
   <diagram id="scT3eio-MiDzapyk48vS" name="Deletion Account">
-    <mxGraphModel dx="788" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-1" value="Información en Tenderos" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="500" height="320" as="geometry" />
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-1" value="Request Cancelation" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="500" height="232.5" as="geometry" />
         </mxCell>
         <mxCell id="-xa-exJ_E3-3g_8dFGrr-2" value="Mobile" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=9;labelBackgroundColor=default;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-1">
           <mxGeometry x="20" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-4" target="-xa-exJ_E3-3g_8dFGrr-5">
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-48" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
+          <mxGeometry x="390" y="35" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-60" target="-xa-exJ_E3-3g_8dFGrr-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-4" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
-          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-60" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
+          <mxGeometry x="50" y="40" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-5" value="Request cancelation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
-          <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-61" value="Request Cancelation" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
+          <mxGeometry x="130" y="36.25" width="100" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-42" target="-xa-exJ_E3-3g_8dFGrr-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-42" target="-xa-exJ_E3-3g_8dFGrr-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-42" value="Successful" style="rhombus;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;rounded=0;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
-          <mxGeometry x="333.75" y="40" width="42.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-48" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
-          <mxGeometry x="420" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-13" value="BackEnd Tenderos" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-1">
-          <mxGeometry x="20" y="120" width="480" height="100" as="geometry">
-            <mxRectangle x="20" y="120" width="687.5" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-13" source="-xa-exJ_E3-3g_8dFGrr-23" target="-xa-exJ_E3-3g_8dFGrr-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-23" value="Request cancelation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-13">
-          <mxGeometry x="120" y="20" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-13" source="-xa-exJ_E3-3g_8dFGrr-26" target="-xa-exJ_E3-3g_8dFGrr-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-26" value="Validate User" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;rounded=0;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-13">
-          <mxGeometry x="240" y="15" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-38" value="Return message" style="whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;rounded=0;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-13">
-          <mxGeometry x="320" y="20" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-32" value="BD Tenderos" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-1">
-          <mxGeometry x="20" y="220" width="480" height="100" as="geometry">
-            <mxRectangle x="20" y="120" width="687.5" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-33" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-32">
-          <mxGeometry x="252.5" y="50" width="25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-26" target="-xa-exJ_E3-3g_8dFGrr-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-37" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-xa-exJ_E3-3g_8dFGrr-36">
-          <mxGeometry x="0.1765" y="-1" relative="1" as="geometry">
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-67" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-65" target="-xa-exJ_E3-3g_8dFGrr-48">
+          <mxGeometry x="0.2982" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-33" target="-xa-exJ_E3-3g_8dFGrr-38">
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-2" source="-xa-exJ_E3-3g_8dFGrr-65" target="-xa-exJ_E3-3g_8dFGrr-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xa-exJ_E3-3g_8dFGrr-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-38" target="-xa-exJ_E3-3g_8dFGrr-42">
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-70" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-xa-exJ_E3-3g_8dFGrr-68">
+          <mxGeometry x="-0.9173" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-65" value="success" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-2">
+          <mxGeometry x="280" y="30" width="53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-13" value="BackEnd Tenderos" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=9;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-1">
+          <mxGeometry x="20" y="120" width="480" height="112.5" as="geometry">
+            <mxRectangle x="20" y="120" width="687.5" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-63" value="Service&amp;nbsp;&lt;br style=&quot;font-size: 9px;&quot;&gt;account-deletion/request" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-xa-exJ_E3-3g_8dFGrr-13">
+          <mxGeometry x="120" y="16.25" width="120" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-61" target="-xa-exJ_E3-3g_8dFGrr-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xa-exJ_E3-3g_8dFGrr-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-xa-exJ_E3-3g_8dFGrr-1" source="-xa-exJ_E3-3g_8dFGrr-63" target="-xa-exJ_E3-3g_8dFGrr-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
