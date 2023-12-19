@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T17:16:37.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FBi7XPGGyKyW7gW0_wdl" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T17:21:54.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3RxzwR7VdH7Koczd9qNd" version="22.1.11" type="github">
   <diagram id="scT3eio-MiDzapyk48vS" name="Deletion Account">
     <mxGraphModel dx="1434" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,9 +292,6 @@
         </mxCell>
         <mxCell id="-xa-exJ_E3-3g_8dFGrr-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-xa-exJ_E3-3g_8dFGrr-158" source="-xa-exJ_E3-3g_8dFGrr-175" target="-xa-exJ_E3-3g_8dFGrr-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jL6u0XQThrbKyQ0_XxcB-1" value="CAMBIOS TES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
