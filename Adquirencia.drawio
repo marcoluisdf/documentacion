@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T16:29:07.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="M85dUFdZoVlYPcsyrxuY" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T16:29:22.291Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a7rUmhBmI-b-KGeQkcrb" version="24.4.2" type="github">
   <diagram name="Página-1" id="g_CuxFxD6qwpsW24pDU-">
     <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="300" height="300" as="geometry">
+          <mxGeometry x="130" y="140" width="300" height="300" as="geometry">
             <mxRectangle x="220" y="140" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -33,10 +33,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-21" value="SPT Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="230" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
+          <mxGeometry x="520" y="140" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-19" value="Adquirencia&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;" vertex="1" parent="hPSGs_elmp--i8Mf3MvZ-22">
           <mxGeometry x="76" y="71" width="48" height="48" as="geometry" />
@@ -45,13 +45,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-24" value="Adquirencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="110" width="90" height="30" as="geometry" />
+          <mxGeometry x="590" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-25" value="- Servicios para el onboarding de una tienda en SPN&lt;div&gt;-Servicios que crean una lista de espera para terminales&lt;/div&gt;&lt;div&gt;-Servicios para conectar con netpay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="320" height="60" as="geometry" />
+          <mxGeometry x="130" y="470" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPSGs_elmp--i8Mf3MvZ-26" value="- Servicios para crear cuenta en netpay&lt;div&gt;- Servicio para recibir datos fiscales&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="597" y="370" width="230" height="40" as="geometry" />
+          <mxGeometry x="507" y="370" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
