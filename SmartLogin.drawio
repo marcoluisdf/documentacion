@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T23:24:15.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.13" etag="5ydVbHy7Fs5sBjFT-blU" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T23:29:57.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KsqWSy3N3TvfTPVSTEAD" version="24.4.13" type="github">
   <diagram name="Página-1" id="RMMHzfbRcL0lWS_6vs9x">
-    <mxGraphModel>
+    <mxGraphModel dx="1262" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-1" value="Backend backbone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-2" value="Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-3" value="Netpay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-4" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-5" value="CIAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIt9_EAz_ykK2Z6JLQlN-6" value="Stores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
